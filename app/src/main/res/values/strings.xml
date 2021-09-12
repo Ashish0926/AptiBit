@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">AptiBit</string>
+    <string name="get_aptitude_ready">Get Aptitude Ready</string>
+    <string name="aptibit">AptiBit</string>
+    <string name="todo">TODO</string>
+    <string name="login">Login</string>
+    <string name="please_login_to_continue">Please login to continue.</string>
+    <string name="email">Email</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign up</string>
+    <string name="password">Password</string>
+    <string name="please_enter_your_email_and_password_to_create_an_account">Please enter your email and password to create an account.</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="already_have_an_account_login">Already have an account? Login</string>
+    <string name="create_account">Create Account</string>
+    <string name="Begin">Begin</string>
+    <string name="train_problem">Train Problem</string>
+    <string name="heights_amp_distance"><![CDATA[Heights & Distance]]></string>
+    <string name="profit_amp_loss"><![CDATA[Profit & Loss]]></string>
+    <string name="age_problems">Age Problems</string>
+    <string name="time_amp_work"><![CDATA[Time & Work]]></string>
+    <string name="boats_amp_stream"><![CDATA[Boats & Stream]]></string>
+    <string name="interest">Interest</string>
+    <string name="numbers">Numbers</string>
+    <string name="permutation_amp_combination"><![CDATA[Permutation & Combination]]></string>
+    <string name="pnc">PnC</string>
+    <string name="speed">Speed</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="user_id">User ID</string>
+    <string name="logout">Logout</string>
+    <string name="gmail_com">abcd@gmail.com</string>
+</resources>

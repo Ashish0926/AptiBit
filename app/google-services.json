@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "182601905669",
+    "project_id": "aptibit",
+    "storage_bucket": "aptibit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182601905669:android:62f62361cbd8e8bd4f8e6c",
+        "android_client_info": {
+          "package_name": "com.example.aptibit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182601905669-elhn579o728vnmbshmkbd2gs9pepfefa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpCcIBMWg2NsaqtVT0FZOYwZ9br-IusYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182601905669-elhn579o728vnmbshmkbd2gs9pepfefa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

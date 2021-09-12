@@ -1,0 +1,17 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.AptiBit" parent="Theme.MaterialComponents.NoActionBar">
+<!--         Primary brand color. -->
+<!--        <item name="colorPrimary">@color/bg_color</item>-->
+<!--        <item name="colorPrimaryVariant">@color/bg_color</item>-->
+<!--        <item name="colorOnPrimary">@color/black</item>-->
+<!--        &lt;!&ndash; Secondary brand color. &ndash;&gt;-->
+<!--        <item name="colorSecondary">@color/bg_color</item>-->
+<!--        <item name="colorSecondaryVariant">@color/bg_color</item>-->
+<!--        <item name="colorOnSecondary">@color/black</item>-->
+        <!-- Status bar color. -->
+<!--        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>-->
+        <!-- Customize your theme here. -->
+
+    </style>
+</resources>
