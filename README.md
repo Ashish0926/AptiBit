@@ -6,10 +6,13 @@ AptiBit is an android application that uses Firebase firestore to store the ques
 categories.
 It also uses firebase authentication service that allows you to sign in to the app using your custom credentials.
 
-## External Dependencies Used
+## Technologies:
 
-* Firebase Authentication
-* Firebase Firestore
+* Android Studio
+* Kotlin
+* XML
+* Firebase Authentication Services
+* Firebase Firestore (NoSQL Database)
 * Recycler View
 * Card View
 
