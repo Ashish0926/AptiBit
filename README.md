@@ -5,7 +5,10 @@ Practice aptitude questions with AptiBit.
 AptiBit is an android application that uses firebase cloud firestore to store the questions.
 The app uses firebase auth for user authentication through custom credentials.
 
-## Technology
+## How to download the app?
+Navigate to the releases section and follow the instructions there to download & install the app :)
+
+## Tech Stack!
 
 * Android Studio
 * Kotlin
