@@ -2,11 +2,10 @@
 
 Practice aptitude questions with AptiBit.
 
-AptiBit is an android application that uses Firebase Cloud Firestore to store the questions and categorize different types of aptitude questions into their respective 
-categories.
-It also uses firebase authentication service that allows you to sign in to the app using your custom credentials.
+AptiBit is an android application that uses firebase cloud firestore to store the questions.
+The app uses firebase auth for user authentication through custom credentials.
 
-## Technologies:
+## Technology
 
 * Android Studio
 * Kotlin
