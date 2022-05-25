@@ -6,7 +6,7 @@ AptiBit is an android application that uses firebase cloud firestore to store th
 The app uses firebase auth for user authentication through custom credentials.
 
 ## How to download the app?
-Navigate to the releases section and follow the instructions there to download & install the app :)
+Navigate to the [releases](https://github.com/Ashish0926/AptiBit/releases) section and follow the instructions there to download & install the app :)
 
 ## Tech Stack!
 
