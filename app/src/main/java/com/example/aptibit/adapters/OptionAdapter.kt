@@ -12,7 +12,7 @@ import com.example.aptibit.models.Question
 
 class OptionAdapter(private val context: Context, private val question: Question): RecyclerView.Adapter<OptionAdapter.OptionViewHolder>(){
 
-    inner class OptionViewHolder(itemView: View): RecyclerView.ViewHolder(itemView){
+    class OptionViewHolder(itemView: View): RecyclerView.ViewHolder(itemView){
         val optionText: TextView = itemView.findViewById(R.id.optionText)
         val optionBox: ImageView = itemView.findViewById(R.id.optionBox)
     }
